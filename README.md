@@ -1,2 +1,2 @@
 # Test.repo
-Testing **jenkins 2.04**
+Testing **jenkins 2.05**
