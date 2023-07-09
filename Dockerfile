@@ -6,3 +6,4 @@ RUN apt install tzdata -y
 RUN apt install apache2 -y && service apache2 start
 EXPOSE 80
 CMD apache2ctl -D FOREGROUND
+
